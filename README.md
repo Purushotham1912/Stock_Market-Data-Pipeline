@@ -1,7 +1,7 @@
 # Stock_Market-Data-Pipeline
 
 
-#Goal:
+# Goal:
 ## Fetch real-time stock market data using Yahoo Finance (yfinance)
 ## Store it in a PostgreSQL database
 ## Query the stored data for analysis
